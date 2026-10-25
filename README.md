@@ -2,7 +2,7 @@
 
 A hands-on deep learning project exploring how neural networks learn compressed representations, reconstruct images, and generate new samples using PyTorch.
 
-Rather than copying a tutorial, this project focuses on understanding the mathematics behind generative models and investigating their behaviour through experiments.
+This project focuses on understanding the mathematics behind generative models and investigating their behaviour through experiments.
 
 ## Project Overview
 
